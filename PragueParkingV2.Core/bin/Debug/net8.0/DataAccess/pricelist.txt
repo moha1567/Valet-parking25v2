@@ -1,0 +1,4 @@
+Car:20
+Motorcycle:10
+FreeMinutes:10
+//

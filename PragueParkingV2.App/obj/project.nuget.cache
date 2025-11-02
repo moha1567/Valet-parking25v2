@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Bz7jj78fZU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moha1\\Dropbox\\SCH\\DokumentX\\DevSecOps 2025\\Objektorienterad programmering C#\\Prag-Parking V2\\PragueParkingV2.App\\PragueParkingV2.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moha1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\moha1\\.nuget\\packages\\spectre.console\\0.51.1\\spectre.console.0.51.1.nupkg.sha512"
+  ],
+  "logs": []
+}

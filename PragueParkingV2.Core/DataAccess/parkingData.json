@@ -1,0 +1,13 @@
+[
+  {
+    "VehicleType": "Car",
+    "LicensePlate": "ABC123",
+    "ParkingTime": "2024-11-08T10:00:00"
+  },
+  {
+    "VehicleType": "Motorcycle",
+    "LicensePlate": "XYZ789",
+    "ParkingTime": "2024-11-08T12:00:00"
+  }
+]
+//

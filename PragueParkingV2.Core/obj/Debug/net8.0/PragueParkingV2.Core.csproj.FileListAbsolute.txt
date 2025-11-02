@@ -1,0 +1,74 @@
+C:\Users\moha1\Desktop\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\DataAccess\Config.json
+C:\Users\moha1\Desktop\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\DataAccess\pricelist.txt
+C:\Users\moha1\Desktop\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\PragueParkingV2.Core.deps.json
+C:\Users\moha1\Desktop\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\PragueParkingV2.Core.dll
+C:\Users\moha1\Desktop\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\PragueParkingV2.Core.pdb
+C:\Users\moha1\Desktop\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.csproj.AssemblyReference.cache
+C:\Users\moha1\Desktop\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moha1\Desktop\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.AssemblyInfoInputs.cache
+C:\Users\moha1\Desktop\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.AssemblyInfo.cs
+C:\Users\moha1\Desktop\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.csproj.CoreCompileInputs.cache
+C:\Users\moha1\Desktop\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.dll
+C:\Users\moha1\Desktop\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\refint\PragueParkingV2.Core.dll
+C:\Users\moha1\Desktop\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.pdb
+C:\Users\moha1\Desktop\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\ref\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\DataAccess\Config.json
+C:\Users\moha1\Dropbox\SCH\DokumentX\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\DataAccess\pricelist.txt
+C:\Users\moha1\Dropbox\SCH\DokumentX\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\PragueParkingV2.Core.deps.json
+C:\Users\moha1\Dropbox\SCH\DokumentX\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\PragueParkingV2.Core.pdb
+C:\Users\moha1\Dropbox\SCH\DokumentX\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.csproj.AssemblyReference.cache
+C:\Users\moha1\Dropbox\SCH\DokumentX\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moha1\Dropbox\SCH\DokumentX\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.AssemblyInfoInputs.cache
+C:\Users\moha1\Dropbox\SCH\DokumentX\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.AssemblyInfo.cs
+C:\Users\moha1\Dropbox\SCH\DokumentX\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.csproj.CoreCompileInputs.cache
+C:\Users\moha1\Dropbox\SCH\DokumentX\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.sourcelink.json
+C:\Users\moha1\Dropbox\SCH\DokumentX\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\refint\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.pdb
+C:\Users\moha1\Dropbox\SCH\DokumentX\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\ref\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2024\Objektorienterad programmering C\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\DataAccess\Config.json
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2024\Objektorienterad programmering C\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\DataAccess\pricelist.txt
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2024\Objektorienterad programmering C\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\PragueParkingV2.Core.deps.json
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2024\Objektorienterad programmering C\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2024\Objektorienterad programmering C\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\PragueParkingV2.Core.pdb
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2024\Objektorienterad programmering C\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.csproj.AssemblyReference.cache
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2024\Objektorienterad programmering C\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2024\Objektorienterad programmering C\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.AssemblyInfoInputs.cache
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2024\Objektorienterad programmering C\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.AssemblyInfo.cs
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2024\Objektorienterad programmering C\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.csproj.CoreCompileInputs.cache
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2024\Objektorienterad programmering C\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.sourcelink.json
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2024\Objektorienterad programmering C\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2024\Objektorienterad programmering C\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\refint\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2024\Objektorienterad programmering C\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.pdb
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2024\Objektorienterad programmering C\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\ref\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\DataAccess\Config.json
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\DataAccess\pricelist.txt
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\PragueParkingV2.Core.deps.json
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\bin\Debug\net8.0\PragueParkingV2.Core.pdb
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.csproj.AssemblyReference.cache
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.AssemblyInfoInputs.cache
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.AssemblyInfo.cs
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.csproj.CoreCompileInputs.cache
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.sourcelink.json
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\refint\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.pdb
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking-V2-perfect-master\PragueParkingV2.Core\obj\Debug\net8.0\ref\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking V2\PragueParkingV2.Core\bin\Debug\net8.0\DataAccess\Config.json
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking V2\PragueParkingV2.Core\bin\Debug\net8.0\DataAccess\pricelist.txt
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking V2\PragueParkingV2.Core\bin\Debug\net8.0\PragueParkingV2.Core.deps.json
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking V2\PragueParkingV2.Core\bin\Debug\net8.0\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking V2\PragueParkingV2.Core\bin\Debug\net8.0\PragueParkingV2.Core.pdb
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking V2\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.csproj.AssemblyReference.cache
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking V2\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking V2\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.AssemblyInfoInputs.cache
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking V2\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.AssemblyInfo.cs
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking V2\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.csproj.CoreCompileInputs.cache
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking V2\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.sourcelink.json
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking V2\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking V2\PragueParkingV2.Core\obj\Debug\net8.0\refint\PragueParkingV2.Core.dll
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking V2\PragueParkingV2.Core\obj\Debug\net8.0\PragueParkingV2.Core.pdb
+C:\Users\moha1\Dropbox\SCH\DokumentX\DevSecOps 2025\Objektorienterad programmering C#\Prag-Parking V2\PragueParkingV2.Core\obj\Debug\net8.0\ref\PragueParkingV2.Core.dll

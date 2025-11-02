@@ -1,0 +1,802 @@
+[
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 1,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 2,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 3,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 4,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 5,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 6,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 7,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 8,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 9,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 10,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 11,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 12,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 13,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 14,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 15,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 16,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 17,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 18,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 19,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 20,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 21,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 22,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 23,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 24,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 25,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 26,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 27,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 28,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 29,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 30,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 31,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 32,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 33,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 34,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 35,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 36,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 37,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 38,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 39,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 40,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 41,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 42,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 43,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 44,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 45,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 46,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 47,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 48,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 49,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 50,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 51,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 52,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 53,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 54,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 55,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 56,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 57,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 58,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 59,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 60,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 61,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 62,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 63,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 64,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 65,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 66,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 67,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 68,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 69,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 70,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 71,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 72,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 73,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 74,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 75,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 76,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 77,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 78,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 79,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 80,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 81,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 82,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 83,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 84,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 85,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 86,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 87,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 88,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 89,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 90,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 91,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 92,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 93,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 94,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 95,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 96,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 97,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 98,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 99,
+    "IsOccupied": false
+  },
+  {
+    "FirstParkedVehicle": null,
+    "ParkedVehiclesList": [],
+    "CurrentSizeOccupied": 0,
+    "MaxSize": 4,
+    "SpotId": 100,
+    "IsOccupied": false
+  }
+]
